@@ -8,6 +8,11 @@ public class ComplictDeMoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ComplictDeMoApplication.class, args);
+		
+
+		int a =100;
+    
+		int a=99;
 	}
 
 }
